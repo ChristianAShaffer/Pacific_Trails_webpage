@@ -1,0 +1,27 @@
+header{
+    background-color: #002171;
+    color: white;
+}
+
+nav{
+    background-color: #bbdefb;
+}
+
+.PTR{
+    color: #1976d2;
+    font-weight: bold;
+}
+
+h2{
+    color: #1976d2;
+    font-weight: bold;
+}
+
+dt{
+    color: #002171;
+}
+
+body{
+    background-color: #ffffff;
+    color: #555555;
+}
